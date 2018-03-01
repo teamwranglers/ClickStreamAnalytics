@@ -1,4 +1,4 @@
-package org.dfz.elasticsearch.spark
+package org.elastics.spark
 
 import org.apache.log4j.{Level, Logger}
 import org.apache.spark.SparkConf

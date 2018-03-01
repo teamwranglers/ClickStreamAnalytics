@@ -1,4 +1,4 @@
-package org.dfz.elasticsearch.spark
+package org.elastics.spark
 
 /**
   * Created by vikas on 10/10/2017.

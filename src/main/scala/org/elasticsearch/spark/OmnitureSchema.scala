@@ -1,4 +1,4 @@
-package org.dfz.elasticsearch.spark
+package org.elastics.spark
 
 case class OmnitureSchema(
 
