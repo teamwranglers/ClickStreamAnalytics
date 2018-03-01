@@ -1,0 +1,42 @@
+package org.elastics.spark
+
+case class OmnitureSchema(
+
+                           csessionId: String, clickTime: String, col_3: String, col_4: String, col_5: String,
+                           col_6: String, col_7: String, IPAddress: String, col_9: String, col_10: String,
+                           col_11: String, col_12: String, productURL: String, swId: String, col_15: String,
+                           col_16: String, col_17: String, col_18: String, col_19: String, col_20: String,
+                           col_21: String, col_22: String, col_23: String, col_24: String, col_25: String,
+                           col_26: String, col_27: String, language: String, col_29: String, col_30: String,
+                           col_31: String, col_32: String, col_33: String, col_34: String, col_35: String,
+                           col_36: String, col_37: String, col_38: String, domain: String, regTime: String,
+                           col_41: String, col_42: String, col_43: String, sysSpec: String, col_45: String,
+                           col_46: String, col_47: String, col_48: String, col_49: String, city: String,
+                           country: String, areaCode: String, state: String, col_54: String, col_55: String,
+                           col_56: String, col_57: String, col_58: String, col_59: String, col_60: String,
+                           col_61: String, col_62: String, col_63: String, col_64: String, col_65: String,
+                           col_66: String, col_67: String, col_68: String, col_69: String, col_70: String,
+                           col_71: String, col_72: String, col_73: String, col_74: String, col_75: String,
+                           col_76: String, col_77: String, col_78: String, col_79: String, col_80: String,
+                           col_81: String, col_82: String, col_83: String, col_84: String, col_85: String,
+                           col_86: String, col_87: String, col_88: String, col_89: String, col_90: String,
+                           col_91: String, col_92: String, col_93: String, col_94: String, col_95: String,
+                           col_96: String, col_97: String, col_98: String, col_99: String, col_100: String,
+                           col_101: String, col_102: String, col_103: String, col_104: String, col_105: String,
+                           col_106: String, col_107: String, col_108: String, col_109: String, col_110: String,
+                           col_111: String, col_112: String, col_113: String, col_114: String, col_115: String,
+                           col_116: String, col_117: String, col_118: String, col_119: String, col_120: String,
+                           col_121: String, col_122: String, col_123: String, col_124: String, col_125: String,
+                           col_126: String, col_127: String, col_128: String, col_129: String, col_130: String,
+                           col_131: String, col_132: String, col_133: String, col_134: String, col_135: String,
+                           col_136: String, col_137: String, col_138: String, col_139: String, col_140: String,
+                           col_141: String, col_142: String, col_143: String, col_144: String, col_145: String,
+                           col_146: String, col_147: String, col_148: String, col_149: String, col_150: String,
+                           col_151: String, col_152: String, col_153: String, col_154: String, col_155: String,
+                           col_156: String, col_157: String, col_158: String, col_159: String, col_160: String,
+                           col_161: String, col_162: String, col_163: String, col_164: String, col_165: String,
+                           col_166: String, col_167: String, col_168: String, col_169: String, col_170: String,
+                           col_171: String, col_172: String, col_173: String, col_174: String, col_175: String,
+                           col_176: String, col_177: String, col_178: String
+                         )
+
